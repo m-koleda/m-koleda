@@ -4,7 +4,7 @@
 
 Skills: VirtualBox / PowerShell / Bash / Linux
 
-- 🔭 I’m currently working on some interesting labs. 
+- 🔭 I’m currently working on some interesting projects. 
 
 
 
