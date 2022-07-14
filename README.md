@@ -1,5 +1,5 @@
 
-### Hi there 👋, My name is Max.
+### Hi there 👋, my name is Max.
 #### I am DevOps student.
 
 Skills: VirtualBox / PowerShell / Bash / Linux
