@@ -1,8 +1,8 @@
 
-### Hi there 👋, my name is Max.
-#### I am DevOps student.
+### Hi there 👋, my name is Max
+#### I am DevOps student in itstep.by
 
-Skills: VirtualBox / PowerShell / Bash / Linux
+Skills: VirtualBox / PowerShell / Bash / Linux / Python / Ansible / Jenkins / GitLab / Docker / K8s / Terraform / ...
 
 - 🔭 I’m currently working on some interesting projects. 
 
