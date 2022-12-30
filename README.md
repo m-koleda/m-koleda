@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Max
-#### I am DevOps student in itstep.by
+#### I am DevOps student at [itstep.by](https://itstep.by)
 
 Skills: VirtualBox / PowerShell / Bash / Linux / Python / Ansible / Jenkins / GitLab / Docker / K8s / Terraform / ...
 
